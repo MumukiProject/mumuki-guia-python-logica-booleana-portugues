@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - puede_jubilarse Not:UsesIf
+  then: no es necesario usar alternativa condicional en `puede_jubilarse` ya que podemos
+    incluir la condición del `if` como parte de lo que retornemos
