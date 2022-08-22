@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: 'True'
-name: La verdad detrás de la conjunción
+name: A verdade por trás da conjunção
