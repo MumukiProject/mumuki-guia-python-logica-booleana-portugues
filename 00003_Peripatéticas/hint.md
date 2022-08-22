@@ -1,1 +1,1 @@
-¡No te olvides de las tildes! :eyes: 
+Não esqueça dos acentos! :eyes:

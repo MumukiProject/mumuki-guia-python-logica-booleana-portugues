@@ -1,21 +1,22 @@
-Otro de los operadores con el que ya te encontraste es la conjunción lógica (también llamada _and_), que sólo retorna verdadero cuando las dos expresiones que opera son verdaderas.
+Outro dos operadores com o qual você já se encontrou é a conjunção lógica (também chamada _and_), que retorna apenas verdadeiro quando as duas expressões que operam são verdadeiras.
 
-Podemos encadenar varias de ellas mediante el operador `and` y si alguna es falsa toda la expresión resultará falsa.
+Podemos amarrar várias delas por meio do operador `and` e se alguma é falsa toda a expressão resultará falsa.
 
-Por ejemplo, si cuento con la función...
+Por exemplo, se tenho a função...
 
 ```python
- def es_cantante_prolifico(cds_editados, recitales_realizados, grabo_algun_dvd):
-  return cds_editados >= 10 and recitales_realizados > 25 and grabo_algun_dvd
+ def e_cantor_prolífico(cds_editados, shows_realizados, gravou_algum_dvd):
+  return cds_editados >= 10 and shows_realizados > 25 and gravou_algum_dvd
 ```
 
-...basta con que un cantante no haya grabado un DVD para no ser considerado prolífico, incluso aunque haya editado más de 10 CDs y dado más de 25 recitales. :guitar:
+...basta que um cantor não tenha gravado um DVD para não ser considerado prolífico, mesmo que já tenha editado mais de 10 CDs e  dado mais de 25 shows. :guitar:
 
-> Definí una función `es_peripatetica` que tome el área en que se desempeña una persona, su país de origen y la cantidad de kilómetros que camina por día. Una persona es petipatética cuando se desempeña en filosofía, su país de origen es Grecia y le gusta pasear (camina más de 2 kilómetros por día). Ejemplo:
+> Defina uma função `e_peripatetica` que utilize a área em que uma pessoa se desenvolve profissionalmente, seu país de origem e a quantidade de quilômetros que caminha por dia. Uma pessoa é peripatética quando se desenvolve em filosofia, seu país de origem é a Grécia e  gosta de passear (caminha mais de 2 quilômetros por dia). Exemplo:
 >
 > ```python
-> ム es_peripatetica("filosofía", "Grecia", 5)
+> ム é_peripatetica("filosofia", "Grécia", 5)
 True
-> ム es_peripatetica("ingeniería", "Uruguay", 1)
+> ム é_peripatetica("engenharia", "Uruguai", 1)
 False
 > ```
+
