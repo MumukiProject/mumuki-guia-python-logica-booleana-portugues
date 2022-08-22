@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - pode_se_concentrar Not:UsesIf
+  then: não é necessário usar alternativa condicional em `pode_se_concentrar` já que
+    podemos incluir a condição do `if` como parte do que retorne
