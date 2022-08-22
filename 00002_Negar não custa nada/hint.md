@@ -1,3 +1,3 @@
-Tanto `es_mayor_de_edad` como `es_menor_de_edad` reciben una edad como argumento. :wink:
+Tanto `e_maior_de_idade` como `e_menor_de_idade` recebem uma idade como argumento. :wink:
 
-Recordá que son mayores aquellas personas que tienen 18 años o más.
+Lembre-se de que são maiores de idade aquelas pessoas que têm 18 anos ou mais.
