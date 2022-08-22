@@ -1,0 +1,3 @@
+def esta_aberto(e_feriado, dia, horario):
+  # ... escribí tu solución acá ...
+
