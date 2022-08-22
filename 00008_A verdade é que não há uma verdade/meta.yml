@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: 'True'
-name: La verdad es que no hay una verdad
+name: A verdade é que não há uma verdade
