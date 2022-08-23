@@ -33,17 +33,17 @@ No mundo da lógica estas expressões são chamadas de _proposições_. Mas… q
 > Para comprovar, teste no console a sua função `e_peripatetica` com os seguintes valores e confirme se ela se comporta como na tabela:
 >
 >``` python
-ムe_peripatética("atletismo", "Argentina", 10)
+ムe_peripatetica("atletismo", "Argentina", 10)
 ```
 >
 >``` python
-ムe_peripatética("filosofia", "Argentina", 3)
+ムe_peripatetica("filosofia", "Argentina", 3)
 ```
 >
 >``` python
-ムe_peripatética("engenharia", "Canadá", 1)
+ムe_peripatetica("engenharia", "Canadá", 1)
 ```
 >
 >``` python
-ムe_peripatética("filosofia", "Grécia", 5)
+ムe_peripatetica("filosofia", "Grécia", 5)
 ```
