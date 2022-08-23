@@ -14,9 +14,9 @@ Por exemplo, se tenho a função...
 > Defina uma função `e_peripatetica` que utilize a área em que uma pessoa se desenvolve profissionalmente, seu país de origem e a quantidade de quilômetros que caminha por dia. Uma pessoa é peripatética quando se desenvolve em filosofia, seu país de origem é a Grécia e  gosta de passear (caminha mais de 2 quilômetros por dia). Exemplo:
 >
 > ```python
-> ム é_peripatetica("filosofia", "Grécia", 5)
+> ム e_peripatetica("filosofia", "Grécia", 5)
 True
-> ム é_peripatetica("engenharia", "Uruguai", 1)
+> ム e_peripatetica("engenharia", "Uruguai", 1)
 False
 > ```
 
