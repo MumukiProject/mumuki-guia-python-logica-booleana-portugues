@@ -1,4 +1,4 @@
-def listo(): 
+def pronto(): 
   pass
 
 def cuotas(tarjeta):
@@ -7,6 +7,6 @@ def cuotas(tarjeta):
     'mastercard': 2,
   }.get(tarjeta, 1)
 
-def paga_con_tarjeta(se_cobra_interes, tarjeta, efectivo_disponible):
+def paga_com_cartao(se_cobra_interes, tarjeta, efectivo_disponible):
   return not se_cobra_interes and cuotas(tarjeta) >= 3 or efectivo_disponible < 100
 
