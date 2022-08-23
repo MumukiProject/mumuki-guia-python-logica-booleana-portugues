@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
-  regexp: gano(\W*True\W*,\W*31\W*)
+  regexp: ganhou(\W*True\W*,\W*31\W*)
 name: Vamos brincar de T.E.G.!
