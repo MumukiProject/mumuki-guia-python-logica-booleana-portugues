@@ -1,4 +1,4 @@
-colores_claros = ["blanco", "beige", "celeste", "rosa", "amarillo"]
+colores_claros = ["branco", "bege", "celeste", "rosa", "amarelo"]
 
 def es_tono_claro(color):
   return color in colores_claros
