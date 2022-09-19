@@ -1,5 +1,5 @@
   
-  def test_tiene_contraste_blanco_negro_es_verdadero(self):
+  def test_tem_contraste_branco_preto_e_verdadeiro(self):
     self.assertTrue(tem_contraste("blanco","negro"))
 
   def test_tiene_contraste_beige_rosa_es_falso(self):
