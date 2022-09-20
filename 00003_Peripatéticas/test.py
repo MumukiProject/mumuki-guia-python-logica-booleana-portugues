@@ -1,5 +1,5 @@
   
-  def test_e_necessario_que_grecia_tenha_acento_e_esteja_em_letras_maiusculas_para_saber_se_a_pessoa_e_peripatetica(self):
+  def test_é_necessário_que_Grécia_tenha_acento_e_esteja_em_letras_maiúsculas_para_saber_se_a_pessoa_é_peripatética(self):
     self.assertFalse(e_peripatetica("filosofia", "Grecia", 3))
     self.assertTrue(e_peripatetica("filosofia", "Grécia", 3))
   
