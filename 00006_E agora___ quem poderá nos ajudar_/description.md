@@ -1,6 +1,6 @@
-Já aconteceu com você de querer resolver  alguma coisa no banco e quando chegou se deu conta de que estava fechado? Com a Dory :tropical_fish: sim já aconteceu,  e por isso vamos desenvolver uma função que ajude aos desatentos como ela.
+Já aconteceu com você de querer resolver  alguma coisa no banco e quando chegou se deu conta de que estava fechado? Com a Dory :tropical_fish: sim já aconteceu,  e por isso vamos desenvolver uma função que ajude os desatentos como ela.
 
-Sabemos que o banco está aberto durante a semana quando não for feriado, e dentro do horário bancário.
+Sabemos que o banco está aberto durante os dias da semana, exceto feriados, e dentro do horário bancário.
 
 Já estão definidas as funções:
 
