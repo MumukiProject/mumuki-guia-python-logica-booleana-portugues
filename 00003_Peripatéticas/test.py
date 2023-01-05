@@ -10,7 +10,7 @@
     self.assertFalse((e_peripatetica("filosofia", "Grécia", 2) or e_peripatetica("filosofía", "Grécia", 2)))
   
   def test_uma_pessoa_que_tem_bom_desempenho_em_filosofia_é_da_argentina_e_caminha_5km_por_dia_não_é_peripatética(self):
-    self.assertFalse(e_peripatetica("filosofía", "Argentina", 5))
+    self.assertFalse(e_peripatetica("filosofia", "Argentina", 5))
   
   def test_uma_pessoa_que_tem_bom_desempenho_em_atletismo_é_da_grécia_e_caminha__10km_por_dia_não_é_peripatética(self):
     self.assertFalse(e_peripatetica("atleta", "Grecia", 10))
