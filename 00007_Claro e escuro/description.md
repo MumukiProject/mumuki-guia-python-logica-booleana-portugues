@@ -11,4 +11,4 @@ False
 True
 ```
 
-> Agora é a sua vez! Defina a função `tem_contraste`. Para que a página tenha contraste é necessário ter o fundo claro e a letra não ou  ter a letra clara e o fundo não.:relieved:
+> Agora é a sua vez! Defina a função `tem_contraste`. Para que a página tenha contraste é necessário que o fundo seja claro e a letra não, ou que a letra seja clara e o fundo não. :relieved:
