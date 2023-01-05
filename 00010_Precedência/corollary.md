@@ -50,7 +50,7 @@ Nesta  tabela a precedência vai do maior para o menor, ou seja, a prioridade 1 
 8 + 2 * 3 < 15 and not 5 == 4
 ```
 
-... obteremos `True` já que resolve as operações nessa ordem:
+... obteremos `True` já que as operações são resolvidas nessa ordem:
 
 1. `2 * 3` que retorna `6` então: `8 + 6 < 15 and not 5 == 4`
 2. `8 + 6` que retorna `14` então: `14 < 15 and not 5 == 4`

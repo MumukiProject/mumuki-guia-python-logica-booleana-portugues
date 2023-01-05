@@ -32,6 +32,6 @@ def paga_com_cartao(cobra_se_juros, cartao, a vista_disponivel):
 >``` python
 ムpaga_com_cartao(True, "mastercard", 32)
 ```
-> ... mas você pode tentar com os quais você desejar.
+> ... mas você pode tentar com os argumentos que você desejar.
 
 > Quando terminar, escreva `pronto()`.
