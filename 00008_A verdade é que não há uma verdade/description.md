@@ -1,6 +1,6 @@
-Agora vamos pensar como seria a tabela de verdade que representa o comportamento da função que você acabou de fazer.
+Agora vamos pensar como seria a tabela de verdade que representa o comportamento da função que você acabou de criar.
  
-A proposição é `e_tom_claro`, e o valor de verdade que leve dependerá de cada cor que estiver avaliando.
+A proposição é `e_tom_claro`, e o valor de verdade que levará depende de cada cor que estiver avaliando.
 
 O booleano final resultará de operar estas cores por meio de `tem_contraste`:
 
