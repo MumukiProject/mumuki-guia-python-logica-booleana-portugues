@@ -1,6 +1,6 @@
-E se fosse suficiente que apenas uma das várias condições se cumprissem para afirmar que uma expressão é verdadeira? Podemos utilizar outro dos operadores que você já conhece, a disjunção lógica `or`! :bulb:
+E se fosse suficiente que apenas uma das várias condições se cumprisse para afirmar que uma expressão é verdadeira? Podemos utilizar outro dos operadores que você já conhece, a disjunção lógica `or`! :bulb:
 
-No famoso jogo T.E.G., um jogador pode ganhar de duas formas: por cumprir seu objetivo secreto ou por alcançar o objetivo geral de conquistar 30 países:
+No famoso jogo T.E.G., um jogador pode ganhar de duas formas: cumprindo seu objetivo secreto ou por alcançando o objetivo geral de conquistar 30 países:
 
 ```python
 def ganhou(cumpriu_objetivo_secreto, quantidade_de_paises_conquistados):
