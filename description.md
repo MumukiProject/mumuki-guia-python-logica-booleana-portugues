@@ -1,1 +1,1 @@
-Como você já viu no decorrer de vários exercícios, quando programamos trabalhamos com booleanos que representam valores de verdade. Podemos operar com eles por meio do que denominamos de operadores lógicos, como a conjunção e a disjunção. Vamos aprender um pouco mais sobre eles! :muscle:
+Como você já viu no decorrer de vários exercícios, quando programamos, trabalhamos com booleanos que representam valores de verdade. Podemos operar com eles por meio do que denominamos de operadores lógicos, como a conjunção e a disjunção. Vamos aprender um pouco mais sobre eles! :muscle:
