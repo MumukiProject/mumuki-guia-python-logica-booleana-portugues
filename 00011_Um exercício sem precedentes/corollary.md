@@ -1,4 +1,4 @@
-E se delegamos? Poderíamos separar a lógica da seguinte maneira:
+E se _delegarmos_, ou seja, dividirmos nosso problema principal em várias funções mais pequenas? Poderíamos separar a lógica da seguinte forma: 
  
 ```python
 def pode_se_concentrar(infusao, temperatura, estaProgramando):

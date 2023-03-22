@@ -16,4 +16,5 @@ False
 >ム pode_se_concentrar('chá', 95, False)
 >False
 ```
-> Tente resolver em uma única função! Depois vamos ver como ficaria se delegamos.
+> Tente resolver em uma única função! Depois vamos ver como ficaria se dividíssemos o problema em várias funções.
+
