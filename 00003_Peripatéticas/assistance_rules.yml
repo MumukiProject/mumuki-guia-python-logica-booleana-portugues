@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     only_these_tests_failed:
     - é necessário que grécia tenha acento para saber se a pessoa é peripatética
   then: não esqueça do acento e das letras maiúsculas em `"Grécia"`
